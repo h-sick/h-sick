@@ -1,4 +1,12 @@
-### Hi there 👋
+### 안녕하세요 👋
+
+#### <div align=center>Front-end Developer</div>
+
+- Javascript를 잘 이해하는 프론트엔드 개발자가 되고 싶은 김효식입니다.
+- 새로운 기술도 빨리 습득해서 성장하는 것을 지향합니다.
+- 좋은 아웃풋은 팀원들과의 꾸준한 소통에서 나온다고 생각합니다 :)
+- 걷거나 등산하는 것을 좋아하고, 미드 보는게 취미입니다.
+
 
 <!--
 **h-sick/h-sick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
