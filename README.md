@@ -1,6 +1,6 @@
-### 안녕하세요 👋
+## <div aling=center>안녕하세요 👋</div>
 
-#### <div align=center>Front-end Developer</div>
+### <div align=center>Front-end Developer</div>
 
 - Javascript를 잘 이해하는 프론트엔드 개발자가 되고 싶은 김효식입니다.
 - 새로운 기술도 빨리 습득해서 성장하는 것을 지향합니다.
