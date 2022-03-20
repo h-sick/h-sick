@@ -1,4 +1,4 @@
-## <div align=center>Hellow World 👋</div>
+## <div align=center>Hello World 👋</div>
 ### <div align=center>프론트엔드 개발자 김효식입니다.</div>
 <br/>
 <div align=center>
