@@ -1,13 +1,14 @@
 # <div>Hello World 👋</div>
 ## <p>프론트엔드 개발자 김효식입니다.</p>
 <br/>
-<div>좋은 구조를 만들어서 생산성을 높이는 것에 관심이 있습니다.</div>
+<div>코드 리뷰를 통해 서로간의 피드백으로 비효율적이거나 반복되는 일을 개선하는 것을 좋아하고, 비즈니스의 성장과 개인의 성장이 연결되어 선순환되는 구조를 희망합니다.</div>
 <br />
 <div>
-  - Javascript <br />
-  - Html/css <br />
-  - React <br />
-  - Typescript <br />
+- JavaScript, Typescript <br />
+- Html, css/scss, postcss, css-in-js <br />
+- React.js, Redux <br />
+- Webpack, Babel <br />
+- Git, GitFlow <br />
 </div>
 <!-- <div align=center>
 - 언제나 다양한 가능성을 살피며, 유연한 사고를 지닌 프론트엔드 개발자 김효식입니다. 🙏 <br/>
