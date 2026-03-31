@@ -1,4 +1,10 @@
-# <div>Hello World 👋</div>
+Hi, I'm a Frontend Engineer specialising in React and TypeScript.
+
+I focus on performance optimisation and solving complex problems in large-scale applications.
+
+- Strong in debugging and identifying root causes
+- Experienced in improving memory usage and application performance
+- Passionate about building scalable and reliable frontend systems
 
 <!-- ## <p>매일 성장하는 프론트엔드 개발자 김효식입니다 :)</p> -->
 <br/>
