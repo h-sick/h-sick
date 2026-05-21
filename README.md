@@ -1,4 +1,4 @@
-Hi, I'm a Frontend Engineer specialising in React and TypeScript.
+Hi, I'm a Full stack Engineer.
 
 I focus on performance optimisation and solving complex problems in large-scale applications.
 
